@@ -88,9 +88,9 @@ pip install -r requirements.txt --break-system-packages
 
 ╔══════════════════════════════════════════════════════════════╗
 
-║                          GEMINI AI SEC-SCANNER                                  ║
+║                     GEMINI AI SEC-SCANNER                    ║
 
-║                                             									  ║
+║                                             					   ║
 
 ╚══════════════════════════════════════════════════════════════╝
 
